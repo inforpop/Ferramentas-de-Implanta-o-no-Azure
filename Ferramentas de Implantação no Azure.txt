@@ -1,0 +1,23 @@
+O Azure oferece uma variedade de ferramentas de implantação que ajudam os desenvolvedores e administradores a criar, gerenciar e implantar aplicativos e serviços na nuvem. Aqui estão algumas das principais ferramentas:
+
+1. **Azure Portal**: Interface gráfica baseada na web para gerenciar todos os serviços do Azure. Permite a criação e gerenciamento de recursos de forma intuitiva.
+
+2. **Azure CLI (Command-Line Interface)**: Ferramenta de linha de comando que permite gerenciar recursos do Azure através do terminal. É multiplataforma e pode ser usada em Windows, macOS e Linux.
+
+3. **Azure PowerShell**: Conjunto de módulos que fornecem cmdlets para gerenciar o Azure com scripts PowerShell. Ideal para automatização e gerenciamento avançado.
+
+4. **Azure Resource Manager (ARM) Templates**: Arquivos JSON que definem a infraestrutura e configurações dos seus recursos do Azure. Permitem a implantação, atualização e exclusão de recursos de forma repetitiva e segura.
+
+5. **Azure DevOps**: Conjunto de ferramentas para CI/CD (Continuous Integration/Continuous Deployment), planejamento de projetos, gerenciamento de código fonte, testes automatizados e mais. Inclui serviços como Azure Pipelines, Azure Repos, Azure Boards, Azure Test Plans e Azure Artifacts.
+
+6. **GitHub Actions**: Serviço de automação de CI/CD diretamente integrado ao GitHub. Permite criar pipelines de build e deploy que interagem diretamente com o Azure.
+
+7. **Azure Kubernetes Service (AKS)**: Serviço gerenciado de Kubernetes que simplifica a implantação, gerenciamento e operações de clusters Kubernetes.
+
+8. **Terraform**: Ferramenta de código aberto para definir e provisionar infraestrutura através de código. Suporta o Azure através de um provider específico, permitindo a gestão de recursos do Azure de forma declarativa.
+
+9. **Azure Blueprints**: Serviço que ajuda a definir um conjunto de recursos Azure que implementam e aderem a padrões, padrões e requisitos de governança, segurança e compliance.
+
+10. **Azure Arc**: Serviço que permite gerenciar recursos no Azure, assim como em ambientes locais e em outras nuvens, proporcionando uma experiência consistente de gerenciamento.
+
+Essas ferramentas oferecem diversas opções e níveis de controle, permitindo que as equipes escolham a melhor abordagem para suas necessidades específicas de implantação e gerenciamento.
